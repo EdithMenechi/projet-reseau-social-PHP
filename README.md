@@ -1,7 +1,7 @@
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-HTML-326996.svg)](https://www.javascript.com)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-CSS-326996.svg)](https://www.javascript.com)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-PHP-326996.svg)](https://www.javascript.com)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-MySQL-326996.svg)](https://www.javascript.com)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-HTML-326996.svg)]
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-CSS-326996.svg)]
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-PHP-326996.svg)](https://www.php.net/)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-MySQL-326996.svg)](https://www.mysql.com/fr/)
 
 ## Projet d'école Ada Tech School : Réseau social
 ![image](https://github.com/EdithMenechi/projet-reseau-social-PHP/assets/146751517/75ce5760-4623-4cf3-a3e5-0657d27eeded)
