@@ -10,6 +10,7 @@ Projet collectif Ada Tech School, 2 semaines, 4 personnes.
 Découverte de PHP, première véritable utilisation des bases de données.
 
 _
+
 Un code PHP préexistant nous était fourni.
 
 Il fallait le corriger et faire de la refacto, nous étions guidés pour ces étapes.
