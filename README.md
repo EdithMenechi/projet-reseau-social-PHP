@@ -1,5 +1,5 @@
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-HTML-326996.svg)]
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-CSS-326996.svg)]
+![made-with-javascript](https://img.shields.io/badge/Made%20with-HTML-326996.svg)
+![made-with-javascript](https://img.shields.io/badge/Made%20with-CSS-326996.svg)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-PHP-326996.svg)](https://www.php.net/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-MySQL-326996.svg)](https://www.mysql.com/fr/)
 
